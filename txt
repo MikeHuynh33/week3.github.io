@@ -1,0 +1,10 @@
+Object name fish
+{
+    lv:
+    postion_x :
+    postion_y :
+
+}
+dog1 dog2 dog3
+-appear ().random-x random-y.
+-movement ().current-postion_x 
